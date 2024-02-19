@@ -34,6 +34,6 @@ Coding was my hobby for like 5 years at this point, and most of this time I was 
 
 <div width="100%" align="center"><a href="https://github.com/stinger222/edu-schedule-constructor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stinger222&repo=edu-schedule-constructor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/stinger222/ongoings-timer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stinger222&repo=ongoings-timer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/stinger222/next-space" align="middle"><img align="middle" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stinger222&repo=next-space&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
