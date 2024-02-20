@@ -37,10 +37,10 @@ I love Web Development and was into it for more than 3 years now!<br />In the fu
 
 <b>My GitHub Stats</b>
 
-
-<a href="http://www.github.com/stinger222"><img src="https://github-readme-stats.vercel.app/api?username=stinger222&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="stinger222's GitHub stats" /></a>
-
-<a href="https://github.com/stinger222"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stinger222&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="http://www.github.com/stinger222"><img align="left" src="https://github-readme-stats.vercel.app/api?username=stinger222&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="stinger222's GitHub stats" /></a>
+  <a href="https://github.com/stinger222"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stinger222&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
 <b>Top Repositories</b>
 
