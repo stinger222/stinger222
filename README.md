@@ -9,7 +9,8 @@ I love Web Development and was into it for more than 3 years now!<br />In the fu
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [sbpavel.work@gmail.com](mailto:sbpavel.work@gmail.com) or [telegram](https://t.me/c23e56a)
-* 🧠  I'm learning Vue.js framework and backend basics
+* 🧠  I'm currently learning Vue.js framework and backend basics
+
 
 ### Skills
 
@@ -30,6 +31,7 @@ I love Web Development and was into it for more than 3 years now!<br />In the fu
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br />
 
 ### Badges
 
